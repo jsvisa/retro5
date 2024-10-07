@@ -21,13 +21,13 @@ Here is my contributions to the Ethereum ecosystem in the past years:
 
 The raw data is available at [data](./data) directory.
 
-| year | erigon | go-ethereum            | prysm     | reth                   | others                | total merged PRs |
-| ---: | :----- | :--------------------- | :-------- | :--------------------- | :-------------------- | ---------------: |
-| 2018 | 0      | Closed: 12, Merged 31  | 0         | 0                      | 0                     |               31 |
-| 2019 | 0      | Merged: 1              | 0         | 0                      | 0                     |                1 |
-| 2022 | 1      | Closed: 2, Merged: 9   | Merged: 2 | 0                      | Closed: 1             |               11 |
-| 2023 | 4      | Closed: 22, Merged: 72 | Merged: 8 | Merged: 4              | Closed: 1, Merged: 4  |               88 |
-| 2024 | 4      | Closed: 1, Merged: 6   | 1         | Closed: 13, Merged: 75 | Closed: 4, Merged: 18 |              100 |
+| year | [erigon](https://github.com/erigontech/erigon) | [go-ethereum](https://github.com/ethereum/go-ethereum) | [prysm](https://github.com/prysmaticlabs/prysm) | [reth](https://github.com/paradigmxyz/reth) | others                | total merged PRs |
+| ---: | :--------------------------------------------- | :----------------------------------------------------- | :---------------------------------------------- | :------------------------------------------ | :-------------------- | ---------------: |
+| 2018 | 0                                              | Closed: 12, Merged 31                                  | 0                                               | 0                                           | 0                     |               31 |
+| 2019 | 0                                              | Merged: 1                                              | 0                                               | 0                                           | 0                     |                1 |
+| 2022 | 1                                              | Closed: 2, Merged: 9                                   | Merged: 2                                       | 0                                           | Closed: 1             |               11 |
+| 2023 | 4                                              | Closed: 22, Merged: 72                                 | Merged: 8                                       | Merged: 4                                   | Closed: 1, Merged: 4  |               88 |
+| 2024 | 4                                              | Closed: 1, Merged: 6                                   | 1                                               | Closed: 13, Merged: 75                      | Closed: 4, Merged: 18 |              100 |
 
 Hints the `others` including the below projects:
 
